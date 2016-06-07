@@ -1,0 +1,22 @@
+{
+  "name": "streamtip-router",
+  "version": "1.0.0",
+  "description": "Fires a simple rest api event when you recieve a streamtip donation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Allar@github.com/Allar/streamtip-router.git"
+  },
+  "author": "Michael Allar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allar/streamtip-router/issues"
+  },
+  "homepage": "https://github.com/Allar/streamtip-router#readme",
+  "dependencies": {
+    "request-json": "^0.5.6"
+  }
+}
